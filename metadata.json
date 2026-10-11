@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Vance — Design & Architecture Studio",
+  "description": "A clean, modern responsive website homepage showcasing architectural brand systems, digital product design, and spatial direction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
